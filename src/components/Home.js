@@ -15,7 +15,7 @@ const Home = () => {
           </p>
         </div>
         <div className="col-md-6">
-          <img src="https://via.placeholder.com/400" alt="Profile" className="img-fluid rounded" />
+          <img src="https://avatars.githubusercontent.com/u/20788133?v=4" alt="Profile" className="img-fluid rounded" />
         </div>
       </div>
     </div>

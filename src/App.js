@@ -8,6 +8,7 @@ import Contact from './components/Contact';
 import NotFound from './components/NotFound';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (

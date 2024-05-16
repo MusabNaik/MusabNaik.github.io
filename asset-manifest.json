@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/musabnaik.com/static/css/main.e6076631.css",
+    "main.js": "/musabnaik.com/static/js/main.04ad9a8d.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/musabnaik.com/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/GDA.png": "/musabnaik.com/static/media/GDA.2a96106b9e1ad88582f0.png",
+    "static/media/PL-300.png": "/musabnaik.com/static/media/PL-300.1dee151c1b13a0f7ea8f.png",
+    "static/media/AI-900.png": "/musabnaik.com/static/media/AI-900.2f49bc40146682370339.png",
+    "index.html": "/musabnaik.com/index.html",
+    "main.e6076631.css.map": "/musabnaik.com/static/css/main.e6076631.css.map",
+    "main.04ad9a8d.js.map": "/musabnaik.com/static/js/main.04ad9a8d.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/musabnaik.com/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6076631.css",
+    "static/js/main.04ad9a8d.js"
+  ]
+}

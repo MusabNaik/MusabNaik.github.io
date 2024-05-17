@@ -10,19 +10,19 @@ const Header = () => {
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav">
+        <div className="collapse show navbar-collapse" id="navbarNav">
+          <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <NavLink className="nav-link" to="/" activeClassName="active" >Home</NavLink>
+              <NavLink className="nav-link" to="/" activeClassName="active">Home</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/portfolio" >Portfolio</NavLink>
+              <NavLink className="nav-link" to="/portfolio">Portfolio</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/certification" >Certification</NavLink>
+              <NavLink className="nav-link" to="/certification">Certification</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/contact" >Contact</NavLink>
+              <NavLink className="nav-link" to="/contact">Contact</NavLink>
             </li>
           </ul>
         </div>

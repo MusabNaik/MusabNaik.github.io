@@ -60,3 +60,11 @@ a {
 .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%2876, 175, 80, 1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
+
+.cert-image {
+  width: 100%;
+  height: auto;
+  max-width: 44em; 
+  display: block;
+  margin: 0 auto; 
+}

@@ -24,7 +24,24 @@ const Portfolio = () => {
           Tableau dashboard version of this app can be 
           found <a href='https://public.tableau.com/app/profile/musab.naik/viz/ElectricityGenerationinCanada/Dashboard1/' target="_blank" rel="noopener noreferrer">here</a>
           </p>
-          <img src="https://raw.githubusercontent.com/MusabNaik/Canada-Energy-Generation-Map-Streamlit/main/screenshot.png" className="cert-image"/>
+          <img src="https://raw.githubusercontent.com/MusabNaik/Canada-Energy-Generation-Map-Streamlit/main/screenshot.png" alt="Streamlit App Screenshot" className="cert-image"/>
+        </div>
+      </div>
+      <div className="card mt-3">
+        <div className="card-body">
+          <a href='https://github.com/MusabNaik/Encrypted-Drive' target="_blank" rel="noopener noreferrer">
+          <h5 className="card-title">File Encryptor & Decryptor for Google Drive</h5>
+          </a>
+          <p className="card-text">
+          This project aims to provide a secure way to encrypt and decrypt files before 
+          uploading to users Google Drive. This is done using a web application built with React. 
+          Users can select any file format, such as PDFs, Word documents, images, or text files, 
+          and encrypt them with a password to ensure their data remains private. Similarly, users 
+          can select previously encrypted files, enter the password, and decrypt the files, 
+          which are then downloaded in their original format. This application uses the AES encryption 
+          standard to ensure data security and integrity.
+          </p>
+          <img src="https://raw.githubusercontent.com/MusabNaik/Encrypted-Drive/main/src/images/Encrypted%20Google%20Drive.png" alt="Streamlit App Screenshot" className="cert-image"/>
         </div>
       </div>
       <div className="card mt-3">

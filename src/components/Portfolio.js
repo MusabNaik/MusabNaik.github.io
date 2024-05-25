@@ -34,12 +34,16 @@ const Portfolio = () => {
           </a>
           <p className="card-text">
           This project aims to provide a secure way to encrypt and decrypt files before 
-          uploading to users Google Drive. This is done using a web application built with React. 
+          uploading to users Google Drive. This is done using a web application built with React.
+          Since there is no backend server involved, your unencrypted data and password never leave your machine.
           Users can select any file format, such as PDFs, Word documents, images, or text files, 
           and encrypt them with a password to ensure their data remains private. Similarly, users 
           can select previously encrypted files, enter the password, and decrypt the files, 
           which are then downloaded in their original format. This application uses the AES encryption 
           standard to ensure data security and integrity.
+          <br></br>
+          <br></br>
+          Check out the fully functional version of this app deployed <a href='https://musabnaik.com/Encrypted-Drive/' target="_blank" rel="noopener noreferrer">here</a>
           </p>
           <img src="https://raw.githubusercontent.com/MusabNaik/Encrypted-Drive/main/src/images/Encrypted%20Google%20Drive.png" alt="Streamlit App Screenshot" className="cert-image"/>
         </div>

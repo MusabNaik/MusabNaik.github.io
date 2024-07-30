@@ -6,6 +6,26 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
       <div className="card">
         <div className="card-body">
+          <a href='https://github.com/MusabNaik/TimHortons-WebScraping' target="_blank" rel="noopener noreferrer">
+          <h5 className="card-title">Python Web Scraper - Tim Hortons Interactive Store Locator Map</h5>
+          </a>
+          <p className="card-text">
+          This project uses Python to scrape the Tim Hortons website to gather detailed 
+          information about each store, including addresses, dine-in and drive-thru hours, 
+          and specific features such as Wi-Fi, Catering, Dine In, and Take Out availability. 
+          The collected data is displayed on an interactive map that provides a user-friendly 
+          experience, allowing users to zoom, scroll, and click on individual store locations 
+          to view detailed information in a pop-up window.
+          <br></br>
+          <br></br>
+          Check out the interactive map here <a href='https://musabnaik.com/TimHortons-WebScraping/' target="_blank" rel="noopener noreferrer">here</a>
+          <br></br>
+          </p>
+          <img src="https://raw.githubusercontent.com/MusabNaik/TimHortons-WebScraping/main/images/Tim_Hortons_Map.png" alt="Streamlit App Screenshot" className="cert-image"/>
+        </div>
+      </div>
+      <div className="card mt-3">
+        <div className="card-body">
           <a href='https://github.com/MusabNaik/Canada-Energy-Generation-Map-Streamlit' target="_blank" rel="noopener noreferrer">
           <h5 className="card-title">Interactive Map of Canadian Electricity Generation</h5>
           </a>
